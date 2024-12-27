@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=carloscarucce&count_private=true&show_icons=true&theme=github_dark_dimmed&hide_border=true&hide_title=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=carloscarucce&count_private=true&show_icons=true&theme=swift&hide_border=true&hide_title=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=carloscarucce&count_private=true&show_icons=true&theme=swift&hide_border=true&hide_title=true" />
+</picture>
+
 <!--
 **carloscarucce/carloscarucce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
